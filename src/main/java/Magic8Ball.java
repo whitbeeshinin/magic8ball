@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
  * Create a Magic 8-ball program that gives custom responses to yes or no questions
  */
