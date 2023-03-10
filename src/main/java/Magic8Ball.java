@@ -10,7 +10,7 @@ public class Magic8Ball {
 
 
     // 2. Get the user to enter a question for the magic 8-ball to answer
-    //    Scanner scannerObject = new Scanner(System.in);
+    //    Scanner scanner = new Scanner(System.in);
     //    String userQuestion = scanner.nextLine();
 
 
